@@ -22,3 +22,9 @@
 for(let a in obj){
     console.log(" Marks of " + a + " Are " + obj[a]);
 }
+
+// for of Loops
+
+for(let b of "harry"){
+    console.log(b);
+}
