@@ -24,7 +24,7 @@ for(i=0; i<=marks_class_11.length; i++)
 }
 
 
-let string = ["hardeep", "Gyan", "Daler", "Baldev"];
+let names = ["hardeep", "Gyan", "Daler", "Baldev"];
 
 for(i=0; i<=string.length; i++)
 {
