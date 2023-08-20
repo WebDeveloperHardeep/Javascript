@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "96_modules.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.5.0",
+    "pdf": "^0.1.0"
+  }
+}
